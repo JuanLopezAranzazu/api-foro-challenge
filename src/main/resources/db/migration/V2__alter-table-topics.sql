@@ -1,0 +1,1 @@
+ALTER TABLE topics ADD `date` DATETIME(6) NOT NULL;
